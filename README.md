@@ -1,7 +1,7 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+A simple project to practice a few git/github workflows.
 
-This is a link to an article or web site I found interesting related to software development/engineering (indirect relationships are ok) along with a paragraph or two about what I found interesting about that article.
+This is a link to an article or web site I found interesting related to software development/engineering along with a paragraph or two about what I found interesting about that article.
 
 ## What to Know About the Open Versus Closed Software Debate
 This article is about the debates about open modifying or copying of A.I technology when developing own software or whether or not it should be closed for safe keeping. I was intriguied by this article in particular because it is interesting to see the differing sides when it comes to technology, especially the differences in reaction between developers and people using the software themselves.  [Link to article](https://www.nytimes.com/2024/05/29/technology/what-to-know-open-closed-software.html?searchResultPosition=8)
