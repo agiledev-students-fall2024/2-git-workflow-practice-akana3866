@@ -8,3 +8,6 @@ This article is about the debates about open modifying or copying of A.I technol
 
 ## "Is “open source” better than “closed” when it comes to software development?"
 According to the article there are two sides to this arguement. The technolgists with exposure to hardcore hacker culture believe that open source is the way to go because it allows for the generation of new and better technology. On the opposing side, others believe that technology is too powerful and can have heavy societal and cultural implications. In addition, it is extremely expensive to make A.I models, so a paid platform to use is only fair. My take on it is somewhere in between. I think that A.I is extremely expansive technology and the way software developers have used it to improve effeciency has been really great and creative. My only caveat to open source, is the saturation of A.I tech companies that his has introduced into the market. I believe because of this is the reason, many tech startup companies are failing and bigger tech companies are having to scale back. But that's just my take on the whole thing.
+
+Comment: I agree! I think somewhere in between is the way to go, but I must admit I am fighting my own personal bias - open source is awesome!!!
+*Commentor: Fred*
